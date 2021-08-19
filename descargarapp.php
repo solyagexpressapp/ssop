@@ -1,0 +1,1 @@
+<iframe src="http://www.appsgeyser.com/social_widget/social_widget.php?width=300&height=160&apkName=dashboard Inposdom_4601740&simpleVersion=no" width="310" height="180" vspace="0" hspace="0" frameborder="no" scrolling="no" seamless="" allowtransparency="true"></iframe>

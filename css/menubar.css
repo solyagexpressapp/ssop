@@ -1,0 +1,101 @@
+#menubar
+{
+	position:relative;
+	margin:0px;
+	padding:0px;
+	background-image: url("../images/menubar/menubar_bg2.jpg"); 
+	background-repeat: repeat-x;
+	width:100%;
+	height:120px;
+	color:#FFFFFF;
+	text-align:left;
+	text-align:center;
+}
+
+#menubar_container
+{
+	position:relative;
+	margin:0 auto;
+	width:875px;
+	text-align:left;
+}
+
+.menu_item
+{
+	float:left;
+	width:700px;
+	height:80px;
+	text-align:center;
+	/*background-color: red;*/
+	padding-left: 100px;
+	padding-top:15px;	
+}
+
+
+#menubar a:link, #menubar a:visited, #menubar a
+{
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+#menubar a:hover
+{
+	color:#CCCCCC;
+	text-decoration:underline;	
+}
+
+.menu_item
+{
+	font-size:8pt;
+	
+}
+
+#menubar_company_info
+{
+	position:absolute;
+	/*left:0px;*/
+	/*top:18px;*/
+	width:250px;
+	height:55%;
+	float: left;
+	padding-right:15px; 
+	
+}
+
+#company_title
+{
+	font-size:14pt;
+	font-weight:bold;
+
+}
+
+#menubar_navigation
+{
+	position:relative;
+	width:75%;
+	left:200px;
+	top:8px;
+	height:45%;
+}
+
+#menubar_footer
+{
+	position:absolute;
+	top:100px;
+	left:0px;
+	height:17%;
+	padding-top:3px;
+	font-size:8pt;
+	font-weight:bold;
+}
+
+#menubar_date
+{
+	position:absolute;
+	top:100px;
+	right:0px;
+	height:17%;
+	padding-top:3px;
+	font-size:8pt;
+	font-weight:bold;
+}

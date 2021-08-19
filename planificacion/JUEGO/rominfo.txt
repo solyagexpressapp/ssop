@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: Ken Griffey Jr. Presents Major League Baseball (USA).sfc Header: No
+KEN GRIFFEY JR BASEBA     TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:OK  
+VIDEO:NTSC    BANK:Lo     CRC32:8BF2B589
+                                        
